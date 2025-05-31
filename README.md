@@ -80,6 +80,6 @@ This project is open-source under the MIT License. Feel free to modify and impro
 
 Contributors
 
-Your Name
+Abhishek Kumar Verma
 
 Syed Aashiq Ahmed
